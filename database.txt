@@ -1,0 +1,7 @@
+1 bread 30
+3 pizza 53
+5 cheese 10
+6 garlic 10
+7 paneer 25
+10 banana 32
+2 apple 90
